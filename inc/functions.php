@@ -9,6 +9,11 @@
  * @link http://tallerdelsoho.es/
  */
 
+/*
+ * As seen here:
+ * http://davidwalsh.name/create-zip-php
+ */
+
 include('config.php');
 
 function js ($photoFolder, $mode = 'json') {
